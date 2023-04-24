@@ -1,6 +1,6 @@
 const form = document.getElementById("form-atividade");
 const imgAprovado = '<img src="./images/aprovado.png" alt="emoji celebrando" />';
-const imgReprovado = '<img src="./images/Reprovado.png" alt="emoji triste" />';
+const imgReprovado = '<img src="./images/reprovado.png" alt="emoji triste" />';
 const atividades = []
 const notas = []
 const spanAprovado = '<span class="resultado aprovado">Aprovado</span>';
